@@ -7,3 +7,5 @@
 !package-lock.json
 !index.html
 !.gitignore
+!jsconfig.json
+!vite.config.js
